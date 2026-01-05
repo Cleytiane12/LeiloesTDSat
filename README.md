@@ -2,7 +2,7 @@
 
 
 
-Sistema desenvolvido para uma casa de leilões, com o objetivo de informatizar e organizar as rotinas de cadastro e listagem de produtos leiloados.
+Sistema desenvolvido para uma casa de leilões, com o objetivo de informatizar e organizar rotinas de cadastro e listagem de produtos leiloados.
 
 
 
@@ -16,13 +16,15 @@ Sistema desenvolvido para uma casa de leilões, com o objetivo de informatizar e
 
 
 
-\## Tecnologias utilizadas
+\## Tecnologias Utilizadas
 
 \- Java
 
 \- NetBeans
 
-\- Git e GitHub
+\- Git
+
+\- GitHub
 
 
 
