@@ -26,5 +26,3 @@ Sistema desenvolvido para uma casa de leilões, com o objetivo de informatizar e
 
 \- GitHub
 
-
-
