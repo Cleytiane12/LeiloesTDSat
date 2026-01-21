@@ -22,6 +22,7 @@ public class ProdutosDAO {
     ResultSet resultset;
     ArrayList<ProdutosDTO> listagem = new ArrayList<>();
     
+    // Método responsável por cadastrar produtos no banco de dados
     public void cadastrarProduto (ProdutosDTO produto){
         
         String sql = "INSERT INTO produtos (nome, valor, status) VALUES (?, ?, ?)";
